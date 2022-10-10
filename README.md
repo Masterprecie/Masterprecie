@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterprecie&label=Profile%20views&color=0e75b6&style=flat" alt="masterprecie" /> </p>
 
 
-- 🔭 I’m currently working on **Alx Software Engineering Program and a talent pool website**
+- 🔭 I’m currently working on **Alx Software Engineering Program**
 
 - 🌱 I’m currently learning **React Js, C**
 

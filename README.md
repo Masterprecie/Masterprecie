@@ -1,4 +1,5 @@
-![MasterHead](https://t4.ftcdn.net/jpg/04/95/28/65/360_F_495286577_rpsT2Shmr6g81hOhGXALhxWOfx1vOQBa.jpg)
+![MasterHead](https://www.digitaland.tv/wp-content/uploads/2016/03/banner_developer-.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Ikpa Precious</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
@@ -20,9 +21,12 @@
 
 - 📄 Know about my experiences [https://ikpa-precious-portfolio.netlify.app/](https://ikpa-precious-portfolio.netlify.app/)
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masterprecie" alt="masterprecie" /></a> </p>
 
+
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/preciousikpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="preciousikpa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ikpa-precious-475675166/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ikpa-precious-475675166/" height="30" width="40" /></a>

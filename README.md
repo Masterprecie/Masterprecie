@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **ikpaprecious2@gmail.com**
 
-- 📄 Know about my experiences [https://ikpa-precious-portfolio.netlify.app/](https://ikpa-precious-portfolio.netlify.app/)
+- 📄 Know about my experiences [https://precious-portfolio-project.netlify.app/](https://precious-portfolio-project.netlify.app/)
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masterprecie" alt="masterprecie" /></a> </p>

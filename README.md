@@ -9,15 +9,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masterprecie&label=Profile%20views&color=0e75b6&style=flat" alt="masterprecie" /> </p>
 
 
-- 🌱 I’m currently learning component and end-to-end testing with **Cypress and Vitest**
+- 🌱 I’m currently learning NodeJs and end-to-end testing with **Cypress and Vitest**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Masterprecie](https://github.com/Masterprecie)
 
-- 💬 Ask me about **HTML, CSS, JS, Git, ReactJs.**
+- 💬 Ask me about **HTML, CSS, JS, Git, ReactJs, Nextjs, NodeJs**
 
 - 📫 How to reach me **ikpaprecious2@gmail.com**
 
-- 📄 Know about my experiences [https://preciousdev.netlify.app/](https://preciousdev.netlify.app/)
+- 📄 Know about my experiences [https://preciousdev.netlify.app](https://devprecie.vercel.app/)]
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masterprecie" alt="masterprecie" /></a> </p>
